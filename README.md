@@ -23,3 +23,5 @@ hand-writing-font randomizer
   -so an 'e' doesn't look just like every other 'e'
     -create several *similar* fonts
     -each character in the document has it's font chosen randomly from the above font-group
+
+easy-to-use database viewer (like base)
