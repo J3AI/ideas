@@ -31,10 +31,10 @@ IDEAS
   - play boardgames online with friends
   - integrate google hangouts video chat
   - most boardgames could be recreated with just the following components, none of which would be too hard to implement:
-  - dice
-  - tokens
-  - cards
-  - the board
+    - dice
+    - tokens
+    - cards
+    - the board
   - modular system, allow users to create their own game setup
   - initially just use an honor system - don't need to enforce the rules of the game in-app
   - potentially implement rule support if we have time
