@@ -29,7 +29,10 @@ IDEAS
 8. online board game platform
   - inspired by roll20.net
   - play boardgames online with friends
-  - integrate google hangouts video chat
+  - ~~integrate google hangouts video chat~~ hangouts does not support this behavior
+    - create google hangouts app for the project?
+  	- use opentok to integrate video chat instead
+  		- http://tokbox.com/opentok
   - most boardgames could be recreated with just the following components, none of which would be too hard to implement:
     - dice
     - tokens
