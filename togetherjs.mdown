@@ -1,0 +1,27 @@
+using `https://togetherjs.com/` to integrate into a website where we can play easy games;
+
+1. just integrating together JS into an app is good; first point
+
+2. further, playing a simple game like tic tac toe (only board and tokens)
+
+Games have four components:
+1. board -HTML/CSS or a static image (vector)
+2. tokens -HTML/CSS; wrapped in image tags that can be dragged around through JS (vector)
+wishlist:
+3. decks of cards
+4. dice -JS
+
+5. and players
+
+-think about the Models/Database associations
+
+jQuery UI: draggable and droppable
+
+BACKEND:
+-databases (for game components, user info)
+-network configuration and sessions
+-oauth to login
+
+TODO (as of 11/14/13):
+-learn javascript/jquery
+  -focusing on javascript for programming, not just UI
